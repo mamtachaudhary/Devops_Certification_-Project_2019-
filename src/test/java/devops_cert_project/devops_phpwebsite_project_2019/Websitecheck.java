@@ -65,7 +65,6 @@ public class Websitecheck {
 	  //String text=msg.getText();
 	  //Assert.assertEquals(text,expectedText);
 	  
-  
  
   @AfterClass
   public void afterClass() {
