@@ -59,8 +59,7 @@ public class Websitecheck {
         Assert.assertTrue(flag, "Looks like there is some issue,please check");
         
         	}
-    	
-        	    
+    	        	    
 	  //WebElement msg=driver.findElement(By.xpath("//div[contains(@class,'callout-success')]"));
 	  //String text=msg.getText();
 	  //Assert.assertEquals(text,expectedText);
